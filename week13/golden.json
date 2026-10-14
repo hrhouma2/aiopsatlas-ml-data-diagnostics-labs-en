@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "When should a pump be stopped for vibration?",
+    "expected_source": "01-pump-troubleshooting.md",
+    "keywords": ["7.0"]
+  },
+  {
+    "id": 2,
+    "question": "What is the normal casing temperature range of a compressor?",
+    "expected_source": "02-compressor-troubleshooting.md",
+    "keywords": ["35 to 75", "35"]
+  },
+  {
+    "id": 3,
+    "question": "How often must the bearings of a compressor be replaced?",
+    "expected_source": "02-compressor-troubleshooting.md",
+    "keywords": ["8,000", "8000"]
+  },
+  {
+    "id": 4,
+    "question": "A conveyor vibration sensor shows exactly 0.0 for three days. What does it mean?",
+    "expected_source": "03-conveyor-and-chiller-troubleshooting.md",
+    "keywords": ["broken", "cable"]
+  },
+  {
+    "id": 5,
+    "question": "How fast does a refrigerant leak make the pressure of a chiller fall?",
+    "expected_source": "03-conveyor-and-chiller-troubleshooting.md",
+    "keywords": ["0.1"]
+  },
+  {
+    "id": 6,
+    "question": "What is the response time for a high severity incident?",
+    "expected_source": "04-incident-severity-and-escalation-policy.md",
+    "keywords": ["1 hour", "one hour"]
+  },
+  {
+    "id": 7,
+    "question": "Who is the site supervisor of Toronto?",
+    "expected_source": "04-incident-severity-and-escalation-policy.md",
+    "keywords": ["Singh"]
+  },
+  {
+    "id": 8,
+    "question": "How often is a PT100 temperature sensor checked against a reference probe?",
+    "expected_source": "05-sensor-calibration-and-data-quality.md",
+    "keywords": ["6 months", "six months"]
+  },
+  {
+    "id": 9,
+    "question": "Which value does an old gateway write when the temperature sensor is disconnected?",
+    "expected_source": "05-sensor-calibration-and-data-quality.md",
+    "keywords": ["999"]
+  },
+  {
+    "id": 10,
+    "question": "Which machine ids are the chillers?",
+    "expected_source": "06-site-overview-and-glossary.md",
+    "keywords": ["M031", "M040"]
+  }
+]
