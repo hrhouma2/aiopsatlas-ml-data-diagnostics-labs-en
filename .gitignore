@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+data/clean/
+data/raw/
+data/json/
+data/graph/
+data/*.sqlite
+data/chroma/
+data/features.csv
+.streamlit/secrets.toml
+*.log
+.DS_Store
+
+# Files the weekly solution scripts generate (students rebuild them by running the scripts)
+week*/*.png
+week*/*.csv
+week*/*.joblib
+week*/*.jsonl
+week06/best_params.json

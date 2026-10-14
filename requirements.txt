@@ -1,0 +1,20 @@
+# Core data stack (Weeks 2-8)
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.9
+duckdb>=1.1
+
+# Retrieval and local LLMs (Weeks 9-13)
+ollama>=0.4
+chromadb>=0.5
+langchain>=0.3
+langchain-community>=0.3
+langchain-ollama>=0.2
+langchain-chroma>=0.1
+langgraph>=0.2
+langgraph-checkpoint-sqlite>=2.0
+
+# Diagnostic application (Week 14)
+streamlit>=1.38
+plotly>=5.24
